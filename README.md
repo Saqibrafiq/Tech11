@@ -6,7 +6,7 @@ Please make sure to have your environment temporarily accessible on cors-anywher
 
 Run the following command in this directory to install all dependencies:
 ```bash
-npm install
+npm install -g http-server
 ```
 
 ## Starting the App
